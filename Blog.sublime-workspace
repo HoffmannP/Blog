@@ -1,0 +1,1959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pl",
+				"platzFuerKopf"
+			],
+			[
+				"hoe",
+				"hoeheHoechsterAbschnitt"
+			],
+			[
+				"hoehe",
+				"hoeheSeite"
+			],
+			[
+				"ho",
+				"hoeheKopf"
+			],
+			[
+				"kopf",
+				"kopfHeight"
+			],
+			[
+				"ab",
+				"abschnitte"
+			],
+			[
+				"iA",
+				"iA015.html"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"get",
+				"getBoundingClientRect"
+			],
+			[
+				"fol",
+				"following"
+			],
+			[
+				"new",
+				"newVariante"
+			],
+			[
+				"var",
+				"variante"
+			],
+			[
+				"drag",
+				"dragObject"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"sho",
+				"showMessages"
+			],
+			[
+				"wer",
+				"werWir"
+			],
+			[
+				"sk_",
+				"sk_ID"
+			],
+			[
+				"arrayk",
+				"array_key_exists"
+			],
+			[
+				"alle",
+				"alleKontakte"
+			],
+			[
+				"konta",
+				"kontaktId"
+			],
+			[
+				"front",
+				"frontOrBack"
+			],
+			[
+				"major",
+				"majorAxis"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"main",
+				"mainSite"
+			],
+			[
+				"first",
+				"firstWeekDay"
+			],
+			[
+				"mont",
+				"monthInterval"
+			],
+			[
+				"param",
+				"paramValue"
+			],
+			[
+				"cal",
+				"calendarTable"
+			],
+			[
+				"is",
+				"is_object"
+			],
+			[
+				"day",
+				"dayObjekt"
+			],
+			[
+				"wek",
+				"weekObjekt"
+			],
+			[
+				"pw",
+				"pw_VerboteneWorte_kvk"
+			],
+			[
+				"fail",
+				"failsFile"
+			],
+			[
+				"ge",
+				"geschlecht"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fit",
+				"fitText"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"array",
+				"array_keys"
+			],
+			[
+				"formu",
+				"formularG"
+			],
+			[
+				"MIt",
+				"klassenMitEingabefehler"
+			],
+			[
+				"Test",
+				"TestEingaben"
+			],
+			[
+				"Te",
+				"TestEingaben"
+			],
+			[
+				"binomi",
+				"binominalquartil"
+			],
+			[
+				"Wer",
+				"WriteTests"
+			],
+			[
+				"propert",
+				"property_exists"
+			],
+			[
+				"gr",
+				"gruppenZahl"
+			],
+			[
+				"gru",
+				"gruppen"
+			],
+			[
+				"selected",
+				"selectedAlpha"
+			],
+			[
+				"selec",
+				"selectAlpha"
+			],
+			[
+				"test",
+				"testScore"
+			],
+			[
+				"ro",
+				"rohTable"
+			],
+			[
+				"sele",
+				"selectedTest"
+			],
+			[
+				"spalte",
+				"spaltenWerte"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"as",
+				"array_slice"
+			],
+			[
+				"minV",
+				"MinVal"
+			],
+			[
+				"func_get_ar",
+				"func_get_args"
+			],
+			[
+				"gruppen",
+				"gruppenBestimmen"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"sql",
+				"sqlName"
+			],
+			[
+				"Re",
+				"RegionID"
+			],
+			[
+				"table",
+				"tableCount"
+			],
+			[
+				"with",
+				"withRestore"
+			],
+			[
+				"gere",
+				"generatePackageList"
+			],
+			[
+				"str",
+				"str_valid_to"
+			],
+			[
+				"Mat",
+				"MatSkript"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"valid",
+				"str_valid_to"
+			],
+			[
+				"va",
+				"valid_to"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"ed_id",
+				"ed_ID"
+			],
+			[
+				"para",
+				"parameter"
+			],
+			[
+				"tes",
+				"testParameter"
+			],
+			[
+				"dataTa",
+				"dataTableSettings"
+			],
+			[
+				"hori",
+				"horizontal"
+			],
+			[
+				"con",
+				"constant	@constant"
+			],
+			[
+				"__",
+				"__constructor"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"check",
+				"fehlerCheckEach"
+			],
+			[
+				"feh",
+				"fehlerCheck"
+			],
+			[
+				"current",
+				"currentTarget"
+			],
+			[
+				"adjust",
+				"adjustVerticaly"
+			],
+			[
+				"tabl",
+				"table_changed"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"size",
+				"sizeOfVar"
+			],
+			[
+				"phpn",
+				"phpinfo"
+			],
+			[
+				"cha",
+				"Challenge"
+			],
+			[
+				"sub",
+				"substr	jsString"
+			],
+			[
+				"to",
+				"toString	jsDate"
+			],
+			[
+				"tab",
+				"tabellenName"
+			],
+			[
+				"ubs",
+				"ubs_anmeldung"
+			],
+			[
+				"survey",
+				"survey_id"
+			],
+			[
+				"PANELA",
+				"PANEL_ALL_TABLES"
+			],
+			[
+				"PANEL",
+				"PANEL_ALL_TABLES"
+			],
+			[
+				"scul",
+				"schultyp"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"func_",
+				"func_num_args"
+			],
+			[
+				"schu",
+				"schultyp"
+			],
+			[
+				"http_bu",
+				"http_build_query"
+			],
+			[
+				"c",
+				"collapse"
+			],
+			[
+				"http_b",
+				"http_build_query"
+			],
+			[
+				"schul",
+				"schul_id"
+			],
+			[
+				"in",
+				"independent"
+			],
+			[
+				"columns",
+				"columns_indep"
+			],
+			[
+				"gethost",
+				"gethostname"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"fundste",
+				"fundstellen"
+			],
+			[
+				"fundse",
+				"fundstelle"
+			],
+			[
+				"funct",
+				"func_get_args"
+			],
+			[
+				"fun",
+				"fundstellen"
+			],
+			[
+				"f",
+				"fundstellen"
+			],
+			[
+				"DEB",
+				"DEBUG_BACKTRACE_IGNORE_ARGS"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"call_",
+				"call_user_func_array"
+			],
+			[
+				"conne",
+				"connect_errno"
+			],
+			[
+				"array_fill",
+				"array_fill_keys"
+			],
+			[
+				"conn",
+				"connectionName"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"e",
+				"example	@example"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"jL",
+				"jLong"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Gnuplot/gnuplot.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javascript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Gnuplot/gnuplot.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/PHP.sublime-build",
+					""
+				],
+				[
+					"Packages/User/javascript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PHP.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"last_filter": "syntaxphp",
+		"selected_items":
+		[
+			[
+				"syntaxphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"unix",
+				"Line Ending to all views: Unix"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"convert space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"error",
+				"PHP Code Sniffer: Goto next error"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git cc",
+				"Git: Custom Command"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gitcc",
+				"Git: Custom Command"
+			],
+			[
+				"git",
+				"Git: Custom Command"
+			],
+			[
+				"line en",
+				"Line Ending: Unix"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ending",
+				"Line Ending to all views: Unix"
+			],
+			[
+				"l",
+				"Line Ending to all views: Mac OS 9"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xde",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdeb",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"gnu",
+				"Set Syntax: gnuplot"
+			],
+			[
+				"awk",
+				"Set Syntax: AWK"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git cust",
+				"Git: Custom Command"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit Current File"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"commit ",
+				"Git: Commit"
+			],
+			[
+				"git ad ",
+				"Git: Add Current File"
+			],
+			[
+				"xdebug",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebug start",
+				"Xdebug: Restart Session"
+			],
+			[
+				"xdebug stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"git comm",
+				"Git: Custom Command"
+			],
+			[
+				"git add f",
+				"Git: Add Current File"
+			],
+			[
+				"git stash",
+				"Git: Stash"
+			],
+			[
+				"git pop",
+				"Git: Pop Stash"
+			],
+			[
+				"git po",
+				"Git: Pop Stash"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git ",
+				"Git: Custom Command"
+			],
+			[
+				"git sta",
+				"Git: Stash"
+			],
+			[
+				"git c",
+				"Git: Custom Command"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"xdebu",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"xdeub",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"xdebug sto",
+				"Xdebug: Stop Debugging (Close Windows)"
+			],
+			[
+				"genpw",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"licen",
+				"SublimeGit: Add License"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Build",
+				"GoSublime: Open shell/build prompt"
+			],
+			[
+				"b:g",
+				"Build: Generate"
+			],
+			[
+				"b:B",
+				"Build: Build"
+			],
+			[
+				"",
+				"GoSublime: Authors & Contributors"
+			],
+			[
+				"bui",
+				"Build: Init"
+			],
+			[
+				"build",
+				"Build: Init"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 381.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ber/Code/Blog"
+	],
+	"file_history":
+	[
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA015.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA015.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG671.html",
+		"/home/ber/Code/Kompetenztest/colt/script/survey_onlinetest.form.php",
+		"/home/ber/Code/Kompetenztest/colt/script/survey_onlinetest.vars.php",
+		"/home/ber/Code/Kompetenztest/media/wp_colt/onlinetest.js",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/.git/COMMIT_EDITMSG",
+		"/home/ber/Code/Kompetenztest/kt/online/index.head.php",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA018.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA015.js",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA016.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA029.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA529.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA511.html",
+		"/home/ber/Code/Kompetenztest/lib/functions.cms.php",
+		"/home/ber/Code/Kompetenztest/media/wp_colt/onlinetest.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG659.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG835.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG719.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG677.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA501.html",
+		"/home/ber/Downloads/Kreise/KreiseThüringen.html",
+		"/home/ber/Desktop/vk2500-slk.ee.svg/vk2500/vk2500_krs.svg",
+		"/home/ber/Projekt KT/Online Tests/HTML Items/schema.html",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA016.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG719.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG677.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iG659.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA511.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA501.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA029.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA018.css",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA016.js",
+		"/home/ber/Code/Kompetenztest/kt/online/assets/items/iA501.js",
+		"/home/ber/Projekt KT/Online Tests/HTML Items/linenum.js",
+		"/home/ber/Projekt KT/Online Tests/HTML Items/highlight.js",
+		"/home/ber/Code/Kompetenztest/kt/admin/schools/schools_contacts.php",
+		"/home/ber/Code/Kompetenztest/kt/admin/schools/schools_profile.php",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA511.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA511.css",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA501.css",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA501.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA015.css",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iFremdwörter.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA501.js",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA015.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iG659.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/schema.html",
+		"/home/ber/Code/Kompetenztest/kt/items/surfer.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA015.js",
+		"/home/ber/Code/Kompetenztest/lib/class.mysql.php",
+		"/home/ber/Code/Kompetenztest/kt/portal/sc_getuploads.php",
+		"/home/ber/Code/Kompetenztest/lib/class.cms_user.php",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iG6590.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iG6590.css",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/schulen.php",
+		"/home/ber/Code/Kompetenztest/kt/admin/schools/schools_profile - Kopie.php",
+		"/home/ber/Code/Kompetenztest/lib/all.inc.php",
+		"/home/ber/Code/Kompetenztest/lib/settings.inc.php",
+		"/home/ber/Code/Kompetenztest/kt/portal/scripts/ktlist_upload_test.portal.php",
+		"/home/ber/Code/Kompetenztest/kt/inc/settings.inc.php",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/main.js",
+		"/home/ber/Code/Kompetenztest/items/2016/iG6590.css",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/sk_Schulkontakte.php",
+		"/home/ber/Code/Kompetenztest/kt/admin/inc/functions.admin.php",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA015014.js",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA015014.html",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA015014.css",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/services/GoogleService.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/sites/EditDayPopUp.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/sites/ShowHotlinePlan.php",
+		"/home/ber/Code/Kompetenztest/kt/items/2016/iA015034.html",
+		"/home/ber/Code/Kompetenztest/iA015014.css",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/index.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/classes/HtmlContainer.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/classes/HtmlElement.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/classes/HtmlTable.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/kalender/classes/HtmlInputCheckbox.php",
+		"/home/ber/Code/Kompetenztest/Docker/Dockerfile",
+		"/home/ber/Code/Kompetenztest/Docker/proxy.snip",
+		"/home/ber/Code/Kompetenztest/Docker/substitute.conf",
+		"/home/ber/Code/Kompetenztest/Docker/start",
+		"/home/ber/Code/Kompetenztest/kt-org/.git/COMMIT_EDITMSG",
+		"/home/ber/Code/Kompetenztest/kt-org/kt-ausw/kt15_MergeAggr.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/index.php",
+		"/home/ber/Code/Kompetenztest/kt/portal/tlrz_return.php",
+		"/home/ber/Code/Kompetenztest/kt/portal/scripts/kt_administration_v14.portal.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager/lib.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager/ft.refresh.php",
+		"/home/ber/Code/Kompetenztest/update.sh",
+		"/home/ber/Code/Kompetenztest/lib/class.mysql_actions.php",
+		"/home/ber/Code/Kompetenztest/kt/inc/mysql_.inc.php",
+		"/home/ber/Code/Kompetenztest/kt/inc/admin.inc.php",
+		"/home/ber/Code/Kompetenztest/kt/inc/mysql.inc.php",
+		"/home/ber/Code/Kompetenztest/kt/inc/htmltools.inc.php",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/db_adm.php",
+		"/home/ber/Code/Kompetenztest/lib/!liesmich.txt",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Auffaellig.r",
+		"/home/ber/Code/Kompetenztest/kt/inc/pw_gen.inc.php",
+		"/home/ber/Code/Kompetenztest/kt/portal/scripts/kt2016_anmeldung_MV.portal.php",
+		"/home/ber/Code/Kompetenztest/kt/portal/portal.api.php",
+		"/home/ber/Code/Kompetenztest/lib/class.mysql_actionsTest.php",
+		"/home/ber/Code/Kompetenztest/lib/class.dbTest.php",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/grenzeBestimmen.php",
+		"/home/ber/Code/Kompetenztest/lib/class.db.php",
+		"/home/ber/Code/Kompetenztest/class.mock.db.php",
+		"/home/ber/SERVER/newServer.sh",
+		"/home/ber/Code/Kompetenztest/kt/ktadm/zuordnungGeschlecht.php",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/test.php",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/chisqr_quantile.json",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/class.EingabePlausibilitaetsTest.php",
+		"/home/ber/Code/Skripte/zuordnungGeschlecht.php",
+		"/home/ber/Desktop/Geschlecht in TH.txt",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/fakeDatenMarc.sh",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/plotVerschiedeneAlphas.plt",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/fehlerhafteItems_Pivot_1734.csv",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/countRichtige.awk",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/countFalsche.awk",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/countValues.awk",
+		"/home/ber/Code/Kompetenztest/org/kt-ausw/kt15_MergeAggr.php",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/fehlerhafteItems_1734.csv",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Vergleich MarcTest zu Normal/richtigeItems_1882.csv",
+		"/home/ber/Code/Kompetenztest/org/kt-eingabe/mk_BeispielDaten.php",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/fakeDatenMarc.sh",
+		"/tmp/test.php",
+		"/home/ber/Code/Kompetenztest/kt/remj/phplib/item.class.php",
+		"/home/ber/Code/Kompetenztest/kt/THUENIS/inc/auth.inc.php",
+		"/home/ber/Code/Kompetenztest/org/ValiditätEingabe/Erzeugt/Klassen-_vs_Eingabe-weise.plg"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/ber/Code/Kompetenztest/",
+			"/home/ber/Code/Kompetenztest/kt/online/assets/items",
+			"",
+			"*/.htaccess",
+			".htaccess",
+			"*.php",
+			"/home/ber/Code/Kompetenztest/kt/portal,*.php",
+			"/home/ber/Code/Kompetenztest/kt/portal",
+			"/home/ber/Code/Kompetenztest/kt/ktadm/kalender",
+			"/home/ber/Code/Kompetenztest/",
+			"/home/ber/Code/Kompetenztest/,settings*.php",
+			"/home/ber/Code/Kompetenztest/,*.php",
+			"/home/ber/Code/Kompetenztest/;*.php",
+			"/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager,*.php",
+			"/home/ber/Code/Kompetenztest/,*.php",
+			"/home/ber/Code/Kompetenztest/kt/,*.php",
+			"/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager,*.php",
+			"",
+			",*.php,/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager",
+			",*.php,/home/ber/Code/Kompetenztest/",
+			",*.php,/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager",
+			",*.php,/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager,*.php",
+			",*.php,/home/ber/Code/Kompetenztest/kt/remj/phplib,*.php",
+			"/home/ber/Code/Kompetenztest/kt/ktadm/tools/filemanager,*.php",
+			"/home/ber/Code/Kompetenztest/,*.php",
+			"/home/ber/Code/Kompetenztest/kt/ktadm/tools,*.php",
+			"/home/ber/Code/Kompetenztest/",
+			"/home/ber/Code/Kompetenztest/kt/remj,*.js",
+			"/home/ber/Code/Kompetenztest/kt/remj",
+			"/home/ber/Code/Kompetenztest/kt/remj,*.js",
+			"/home/ber/Code/Kompetenztest/kt/remj;*.js",
+			"",
+			"/home/ber/Code/Kompetenztest/kt/portal",
+			"",
+			"/home/ber/Code/Kompetenztest",
+			"*,/home/ber/Code/Kompetenztest",
+			"*.php,/home/ber/Code/Kompetenztest",
+			"*.js,/home/ber/Code/Kompetenztest",
+			"*.js,/home/ber/Code/Kompetenztest/media",
+			"/home/ber/Code/Kompetenztest/media/;*.js",
+			"/home/ber/Code/Kompetenztest/kt/remj",
+			"/home/ber/Code/Kompetenztest/kt/remj/phplibbutton",
+			"",
+			"~/Code/Kompetenztest/kt/remj",
+			"",
+			"/home/ber/Code/Kompetenztest/ubs/script_su/,*.php",
+			"/home/ber/Code/Kompetenztest/ubs/script_su/*.php",
+			"/home/ber/Code/Kompetenztest/ubs/script_su;*.php",
+			"",
+			"/home/ber/Code/Kompetenztest/kt/remj/",
+			"",
+			"/home/ber/Code/Kompetenztest/kt/remj",
+			"*.php; ,/home/ber/Code/Kompetenztest/kt/remj",
+			"*.php",
+			"",
+			"/home/ber/Code/Kompetenztest/kt/remj",
+			"",
+			"/home/ber/Code/Kompetenztest/",
+			"/home/ber/Code/Kompetenztest/kt/remj",
+			"",
+			"kt/remj/",
+			"",
+			"kt/remj/*.js",
+			"kt/remj/*.html",
+			"*.html",
+			"*.php",
+			"",
+			"/home/ber/Code/magnetHoover/src",
+			"/home/ber/.config/sublime-text-2/Packages/Default",
+			"/home/ber/Code/SEfU/develop/",
+			"/home/ber/Code/SEfU/develop/apps/lehrer"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"height",
+			";",
+			"position:absolute;bottom:10px;right:20px;color:black;padding:3px;border: 5px #555 solid;border-radius:6px;background-color:lightyellow;",
+			"<<<<<<<",
+			"b",
+			"a",
+			"kh",
+			"labs",
+			"newPrev",
+			"newNext",
+			"oldPrev",
+			"oldNext",
+			"aktAbs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"Abs",
+			"abs",
+			"block",
+			"bar",
+			"MovingBlock",
+			"log",
+			"row",
+			"value",
+			"DEVE",
+			"d",
+			".off()",
+			"class=\"element\" ",
+			">\n",
+			"class=\"element\" ",
+			"class=\"element",
+			"class=\"element ",
+			"class=\"element\" ",
+			"name",
+			"class=\"element\" name",
+			"class=\"element\" ",
+			"_value",
+			"A015034",
+			"A015034_a",
+			"A015014",
+			"data-value=\"",
+			"data-value",
+			"18%",
+			"390",
+			"430",
+			"390",
+			"label",
+			"135",
+			"136",
+			"18%",
+			"\\belement\\b",
+			"element",
+			"A015014",
+			"A015014_a",
+			"el",
+			"getValue",
+			"element",
+			"width=\"18%\" height=\"100%\" ",
+			"zeile",
+			"name",
+			"setAttribute",
+			"aBlock",
+			"back",
+			"real",
+			"block",
+			"class",
+			" scale(1, -1)",
+			"416",
+			"Height",
+			"height",
+			"\\be\\b",
+			"\\be\\b\n\\be\\b",
+			"e",
+			"0",
+			"<td><label",
+			"</label",
+			"<label",
+			"label",
+			"name",
+			"</label",
+			"<input",
+			"</p>",
+			"<label",
+			"label",
+			"element",
+			"zeile",
+			"element",
+			"4",
+			"h5",
+			"p",
+			"zeilnum",
+			"durchstr",
+			"durchgestrichen",
+			"span",
+			"fett",
+			"-beispiel",
+			"kursiv",
+			"„",
+			"em>",
+			"em",
+			"„",
+			"„uns“",
+			"„",
+			"em>",
+			"em",
+			"i>",
+			"i",
+			"i>",
+			"span.",
+			"</span>",
+			"/",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"','",
+			"\\1",
+			"\\t",
+			"\"",
+			"<?php",
+			"nadia",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/ber/Code/SEfU/develop/apps/lehrer/modules/erhebung/actions":
+	{
+		"height": 118.0
+	},
+	"output.9o:///home/ber/Code/magnetHoover/src":
+	{
+		"height": 224.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-source-output":
+	{
+		"height": 118.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 234.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.git-commit":
+	{
+		"height": 124.0
+	},
+	"output.git-push":
+	{
+		"height": 124.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 120.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Blog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ig671.html",
+				"kt/online/assets/items/iG671.html"
+			],
+			[
+				"ia015.html",
+				"kt/online/assets/items/iA015.html"
+			],
+			[
+				"ia016.html",
+				"kt/online/assets/items/iA016.html"
+			],
+			[
+				"ia029.html",
+				"kt/online/assets/items/iA029.html"
+			],
+			[
+				"ia529.html",
+				"kt/online/assets/items/iA529.html"
+			],
+			[
+				"functions.cms.",
+				"lib/functions.cms.php"
+			],
+			[
+				"function",
+				"lib/functions.cms.php"
+			],
+			[
+				"ia511.html",
+				"kt/online/assets/items/iA511.html"
+			],
+			[
+				"ig659.html",
+				"kt/online/assets/items/iG659.html"
+			],
+			[
+				"ig719",
+				"kt/online/assets/items/iG719.html"
+			],
+			[
+				"ia501",
+				"kt/online/assets/items/iA501.html"
+			],
+			[
+				"ia018.",
+				"kt/online/assets/items/iA018.html"
+			],
+			[
+				"ia018.css",
+				"kt/online/assets/items/iA018.css"
+			],
+			[
+				"onlinejs",
+				"media/wp_colt/onlinetest.js"
+			],
+			[
+				"ia511",
+				"kt/online/assets/items/iA511.html"
+			],
+			[
+				"a501",
+				"kt/online/assets/items/iA501.html"
+			],
+			[
+				"iacss",
+				"kt/items/2016/iA501.css"
+			],
+			[
+				"kt/items/2016/ia501.css",
+				"kt/items/2016/iA501.css"
+			],
+			[
+				"iahtm",
+				"kt/items/2016/iA501.html"
+			],
+			[
+				"ia",
+				"kt/items/2016/iA015.css"
+			],
+			[
+				"frem",
+				"kt/items/2016/iFremdwörter.html"
+			],
+			[
+				"ia.html",
+				"kt/items/2016/iA015.html"
+			],
+			[
+				"ig",
+				"kt/items/2016/iG659.html"
+			],
+			[
+				"schem",
+				"kt/items/2016/schema.html"
+			],
+			[
+				"ia5",
+				"kt/items/2016/iA501.html"
+			],
+			[
+				"class.my",
+				"lib/class.mysql.php"
+			],
+			[
+				"sc_get",
+				"kt/portal/sc_getuploads.php"
+			],
+			[
+				"itemsig",
+				"kt/items/2016/iG6590.css"
+			],
+			[
+				"functio",
+				"lib/functions.cms.php"
+			],
+			[
+				"classmysql",
+				"lib/class.mysql.php"
+			],
+			[
+				"schul",
+				"kt/ktadm/schulen.php"
+			],
+			[
+				"lib/setti",
+				"lib/settings.inc.php"
+			],
+			[
+				"settings",
+				"kt/inc/settings.inc.php"
+			],
+			[
+				"all",
+				"lib/all.inc.php"
+			],
+			[
+				"lib/functi",
+				"lib/functions.cms.php"
+			],
+			[
+				"lib/function",
+				"lib/functions.cms.php"
+			],
+			[
+				"ktlist",
+				"kt/portal/scripts/ktlist_upload_test.portal.php"
+			],
+			[
+				"sk_sc",
+				"kt/ktadm/sk_Schulkontakte.php"
+			],
+			[
+				"sc_g",
+				"kt/portal/sc_getuploads.php"
+			],
+			[
+				"sc_ge",
+				"kt/portal/sc_getuploads.php"
+			],
+			[
+				"htmlele",
+				"kt/ktadm/kalender/classes/HtmlElement.php"
+			],
+			[
+				"htmle",
+				"kt/ktadm/kalender/classes/HtmlElement.php"
+			],
+			[
+				"htmlcont",
+				"kt/ktadm/kalender/classes/HtmlContainer.php"
+			],
+			[
+				"htmlcon",
+				"kt/ktadm/kalender/classes/HtmlContainer.php"
+			],
+			[
+				"htmlta",
+				"kt/ktadm/kalender/classes/HtmlTable.php"
+			],
+			[
+				"kalenindex",
+				"kt/ktadm/kalender/index.php"
+			],
+			[
+				"htmltab",
+				"kt/ktadm/kalender/classes/HtmlTable.php"
+			],
+			[
+				"show",
+				"kt/ktadm/kalender/sites/ShowHotlinePlan.php"
+			],
+			[
+				"htmlcontainer",
+				"kt/ktadm/kalender/classes/HtmlContainer.php"
+			],
+			[
+				"kt-auswmerge",
+				"kt-org/kt-ausw/kt15_MergeAggr.php"
+			],
+			[
+				"lib.",
+				"kt/ktadm/tools/filemanager/lib.php"
+			],
+			[
+				"class.mysql_actions.php",
+				"lib/class.mysql_actions.php"
+			],
+			[
+				"mysql_",
+				"kt/inc/mysql_.inc.php"
+			],
+			[
+				"schulen",
+				"kt/ktadm/schulen.php"
+			],
+			[
+				"admin.in",
+				"kt/inc/admin.inc.php"
+			],
+			[
+				"mysql.in",
+				"kt/inc/mysql.inc.php"
+			],
+			[
+				"schulen.p",
+				"kt/ktadm/schulen.php"
+			],
+			[
+				"htmltoo",
+				"kt/inc/htmltools.inc.php"
+			],
+			[
+				"sk_schulkontakte",
+				"kt/ktadm/sk_Schulkontakte.php"
+			],
+			[
+				"admin.inc",
+				"kt/inc/admin.inc.php"
+			],
+			[
+				"sett",
+				"kt/inc/settings.inc.php"
+			],
+			[
+				"settings.inc.php",
+				"lib/settings.inc.php"
+			],
+			[
+				"settings.in",
+				"kt/inc/settings.inc.php"
+			],
+			[
+				"portal/anm",
+				"kt/portal/scripts/kt2016_anmeldung_MV.portal.php"
+			],
+			[
+				"pwgen",
+				"kt/inc/pw_gen.inc.php"
+			],
+			[
+				"item",
+				"kt/remj/phplib/item.class.php"
+			],
+			[
+				"funcmy",
+				"lib/functions.mysql.php"
+			],
+			[
+				"class.d",
+				"lib/class.db.php"
+			],
+			[
+				"mysql.inc",
+				"kt/inc/mysql.inc.php"
+			],
+			[
+				"classmy",
+				"lib/class.mysql.php"
+			],
+			[
+				"cmyql",
+				"lib/class.mysql.php"
+			],
+			[
+				"schulehat",
+				"kt/ktadm/tools/tests/KT.SchuleHatSkripte.php"
+			],
+			[
+				"class",
+				"lib/class.mysql.php"
+			],
+			[
+				"gls.beri",
+				"kt/ktadm/tools/tests/GLS.BerichtDa.php"
+			],
+			[
+				"class.",
+				"lib/class.mysql.php"
+			],
+			[
+				"alle.ph",
+				"kt/ktadm/tools/tests/alle.php"
+			],
+			[
+				"kt.fehler",
+				"kt/ktadm/tools/tests/KT.FehlerGeloggt.php"
+			],
+			[
+				"portal/scripts/kt_eingabe_v15.portal.php",
+				"kt/portal/scripts/kt_eingabe_v15.portal.php"
+			],
+			[
+				"ktfile",
+				"kt/ktadm/tools/filemanager/KTfile.class.php"
+			],
+			[
+				"ktfilecla",
+				"*git-diff*: ktadm/tools/filemanager/KTfile.class.php"
+			],
+			[
+				"ft.twig",
+				"kt/ktadm/tools/filemanager/ft.rechte.twig"
+			],
+			[
+				"ftdown",
+				"kt/ktadm/tools/filemanager/ft.download.twig"
+			],
+			[
+				"ft.down",
+				"kt/ktadm/tools/filemanager/ft.download.php"
+			],
+			[
+				"downtwig",
+				"kt/ktadm/tools/filemanager/ft.download.twig"
+			],
+			[
+				"stand",
+				"media/standard.js"
+			],
+			[
+				"standard",
+				"media/standard.js"
+			],
+			[
+				"pi_standard",
+				"media/pi_standard/jquery.js"
+			],
+			[
+				"fileclass",
+				"kt/ktadm/tools/filemanager/KTfile.class.php"
+			],
+			[
+				"ft.v",
+				"kt/ktadm/tools/filemanager/ft.voes.js"
+			],
+			[
+				"erhebung",
+				"kt/remj/css/erhebung.css"
+			],
+			[
+				"erhebung.le",
+				"kt/remj/css/erhebung.less"
+			],
+			[
+				"ajaxsave",
+				"kt/remj/plugins/ajaxSave.js"
+			],
+			[
+				"back",
+				"kt/remj/plugins/backDrop.js"
+			],
+			[
+				"hight",
+				"kt/remj/plugins/highlightFocus.js"
+			],
+			[
+				"qu",
+				"kt/remj/plugins/queuedSave.js"
+			],
+			[
+				"scroll",
+				"kt/remj/plugins/scroll.js"
+			],
+			[
+				"springe",
+				"kt/remj/plugins/springeWeiter.js"
+			],
+			[
+				"zeilen",
+				"kt/remj/plugins/zeilenSumme.js"
+			],
+			[
+				"ajaxsa",
+				"kt/remj/plugins/ajaxSave.js"
+			],
+			[
+				"scro",
+				"kt/remj/plugins/scroll.js"
+			],
+			[
+				"kt_materialien_v14.portal.php",
+				"kt/portal/scripts/kt_materialien_v14.portal.php"
+			],
+			[
+				"libsettings",
+				"lib/settings.inc.php"
+			],
+			[
+				"cmssettings",
+				"cms/portale/kompetenztest.de/inc/settings.inc.php"
+			],
+			[
+				"inc/mysql",
+				"kt/inc/mysql.inc.php"
+			],
+			[
+				"summe",
+				"kt/remj/plugins/zeilenSumme.js"
+			],
+			[
+				"item.mo",
+				"kt/remj/backbone/item.model.js"
+			],
+			[
+				"sum",
+				"kt/remj/plugins/zeilenSumme.js"
+			],
+			[
+				"spring",
+				"kt/remj/plugins/springeWeiter.js"
+			],
+			[
+				"main",
+				"kt/remj/backbone/main.view.js"
+			],
+			[
+				"base",
+				"kt/remj/base.js"
+			],
+			[
+				"backd",
+				"kt/remj/plugins/backDrop.js"
+			],
+			[
+				"pluginsfoc",
+				"kt/remj/plugins/highlightFocus.js"
+			],
+			[
+				"tlr",
+				"kt/portal/tlrz_upload.inc.php"
+			],
+			[
+				"kt_eingabe",
+				"kt/portal/scripts/kt_eingabe_v15.portal.php"
+			],
+			[
+				"kt_eigabe",
+				"kt/portal/scripts/kt_eingabe_v15.head.php"
+			],
+			[
+				"lib.php",
+				"kt/ktadm/tools/filemanager/lib.php"
+			],
+			[
+				"mysql.inc.php",
+				"kt/inc/mysql.inc.php"
+			],
+			[
+				"ft.refre",
+				"kt/ktadm/tools/filemanager/ft.refresh.php"
+			],
+			[
+				"auto",
+				"lib/Classes/PHPExcel/Autoloader.php"
+			],
+			[
+				"autoload",
+				"lib/Classes/PHPExcel/Autoloader.php"
+			],
+			[
+				"portal.var",
+				"kt/portal/portal.variables.php"
+			],
+			[
+				"functions.cms",
+				"lib/functions.cms.php"
+			],
+			[
+				"functions.kt",
+				"lib/functions.kt.php"
+			],
+			[
+				"func",
+				"lib/functions.csv.php"
+			],
+			[
+				"variables",
+				"lib/variables.cms.php"
+			],
+			[
+				"php",
+				"lib/Classes/PHPExcel.php"
+			],
+			[
+				"phpexcel",
+				"lib/Classes/PHPExcel.php"
+			],
+			[
+				"clas",
+				"lib/class.mysql.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Code/SEfU/administration/administration.sublime-project"
+			],
+			[
+				"vKT",
+				"/home/ber/Code/vKT/vKT.sublime-project"
+			],
+			[
+				"v",
+				"/home/ber/Code/vKT/vKT.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"QueryVal",
+				"queryVal"
+			],
+			[
+				"$KlSt",
+				"$createKeywordList"
+			],
+			[
+				"partsC",
+				"partsChiQuadrat"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
