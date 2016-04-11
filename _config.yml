@@ -1,0 +1,17 @@
+timezone: Europe/Berlin
+exclude:
+  - CNAME
+  - HoffmanP.sublime-workspace
+  - HoffmanP.sublime-project
+  - jekyll
+show_drafts: true
+incremental: true
+
+url: test
+scripts:
+  - /cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min
+  - script
+styles:
+  - style
+
+

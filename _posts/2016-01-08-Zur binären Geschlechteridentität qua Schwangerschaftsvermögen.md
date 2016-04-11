@@ -1,0 +1,28 @@
+---
+layout: post
+title: Zur binären Geschlechteridentität qua Schwangerschaftsvermögen
+tag: feminismus lang:de
+category: Politik
+---
+
+
+Antje Schrupp weist in ihrem Artikel "Über den Zusammenhang von Geschlecht und Biologie" auf die differenzierte Geschlechtseigenschaft "Schwangerwerden" hin und bezeichnet diese als "faktisch binär" (Abs. 11). Öffentlich weitgehend bewusst differenziert wird zwischen dem gewählten oder zugeschrieben Geschlecht (Gender) und dem davon - meist bewusst deutlich unabhängig gemachten - biologischen (Sex). Schrupp seziert nun diese beiden Geschlechtseigenschaften und richtet ihr Augenmerk auf ein dem Anschein nach völlig biologisches Kriterium, der Fähigkeit Schwanger zu werden.
+
+Ich möchte auf Fallstricke bei dieser Kategorisierung Aufmerksam machen: Zum einen sollte klar sein, dass besonders bei dieser Kategorie neben zwei offensichtlichen Eigenschaftsausprägungen der Fall der unbekannten Ausprägung existiert. Und zwar nicht im Sinne von nicht-existent sondern im tatsächlichen Sinne von unbekannt. Relativ klar lassen sich hier die Fälle abtrennen die bekanntermaßen nicht-schwangerschaftsfähig sind: die ohne Gebährmutter. Doch zerfällt bei genauerer Betrachtunge derer mit Gebährmutter zersplittert diese Binarität.
+
+Die Fähigkeit schwanger zu werden entwickelt sich im biologischen Erwachsensprozess. Viele Attribute der Kategorie Frauen* treffen aber bereits weit vorher zu. Die Spanne reicht da von Girlie-Überraschungseiern bis zur Zwangsverheiratung von kleinen Mädchen. Somit stellt sich die Frage ob die Kategorie evtl. umbenannt werden sollte in "prognostizierte Schwangerschaftsfähigkeit" um der Kategorisierung größeren Nutzen zu bringen.
+
+Des weiteren hat die Fähigkeit schwanger zu werden ebenso ein Verfallsdatum - ob die tatsächliche Fähigkeit jemals bewiesen wurde oder nicht. Und auch hier hilft die Kategorie nicht Attributshäufungen (z.B. durchschnittlich kleinere Altersrente, spätere Sterblichkeit, früherer Renteneintritt) zu beschreiben.
+
+Darüber hinaus kann diese Fähigkeit durch Krankheiten, Unfälle, Vergiftungen verloren werden, ohne, dass sich anhand der binären Trennlinie sinnvolle Gruppen bilden lassen. Sogar ein temporärer Verlust ist möglich, absurderweise zum Beispiel durch eine Attributhäufung die klassisch sehr groben phenotypischen Geschlechtszuordnungen entspricht: Magersucht (nur einer von zwölf Erkrankten ist männlich).
+
+Weiter unklar bleibt die Bedeutung von "Fähigkeit". Ist hier ein rein biologistisches "fähig" gemeint im Sinne von "Personen die bei Einführung von Samen in eine Gebärmutter schwanger werden". Hier stellt sich die Frage nach der Zuordnung von Personen deren Empfängnisfähigkeit graduell eingeschränkt ist? Ein bisschen verhält es sich hier wie mit der Frage ob Schwangerschaft immer eine binäre Eigenschaft ist oder ob nicht sprachlich "sehr schwanger" allgemeinverständlich als fortgeschrittene Schwangerschaft verstanden wird. Und ganz basal natürlich die Fähigkeit als alternierende Fähigkeit innerhalb eines Zykluses oder nach einer Schwangerschaft (was allerdings ausdrücklich kein Verhütungstipp sein soll ;-)
+
+Der Begriff "Fähigkeit" kann auch über die biologische Eigenschaft hinaus verstanden werden. Und zwar deshalb, weil das schwanger werden schon vor dem biolgoschen Akt scheitern kann. Sei es am Willen schwanger zu werden oder an einer Spermaallergie, sozialer Unfähigkeit oder Assexualität die den Akt verhindert - zugegeben, andere Wege der Befruchtung existieren, könnten aber zum Beispiel durch finanzielle Hürden versperrt sein. Darüber hinaus gibt es externe Mechanismen, zu Beispiel das Verfahren Schwangerschaften bei Behinderten gegen deren Willen zu verhinden, eine weitere klärungswürde Frage bei der Einschätzung "Fähigkeit".
+
+Zusammenfassend bleibt zu sagen, dass es natürlich eine binäre Kategorie der Schwangerschaftsfähigen Menschen gibt. Nämlich all die, die einmal schwanger waren und eben die anderen. Dazu lässt sich analog die Kategorie der Menschen konstruieren die einmal Samen erzeugten der zu einer Schwangerschaft führte, also die Schwängerungsfähigen. Aber wie helfen uns diese Kategorien weiter? Für mich haben Antje Schrupps Gedanken geholen, weil sie mir klar gemacht haben, dass selbst auf den ersten Blick offensichtlich binäre Kategorien bei genauerem Hinblicken wie fraktale Muster zerfallen, je genauer ich hinschaue, desto zerklüfteter werden sie. Und so habe ich schließlich eine Antwort - von vielen - auf die von Antje Schrupp formulierte Frage "wie Geschlecht und Körperlichkeit zusammenhängen": verworren.
+
+[Link zum Originalartikel](http://antjeschrupp.com/2016/01/02/ueber-den-zusammenhang-von-geschlecht-und-biologie/)
+
+~~~
+Ber, Jena 08. Januar 2016

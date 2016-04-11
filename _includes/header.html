@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8 />
+    <title>Hoffis Eck  - {{ page.title }}</title>
+    {% for style in site.styles %}
+    <link rel="stylesheet" type="text/css" media="screen" href="/{{style}}.css" />
+    {% endfor %}
+
+    {% for script in site.scripts %}
+    <script type="text/javascript" src="/{{script}}.js"></script>
+    {% endfor %}
+</head>
+<body>
+
