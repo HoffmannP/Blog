@@ -5,11 +5,8 @@
         <div>{{content}}</div>
         <p class="signature">
             {{page.author}}, {{page.location}}
-
-{% assign m = page.date | date: "%-m" | minus: 1 %}
 {% assign wt = page.date | date: "%-m" | minus: 1 %}
-{{ page.date | date: "%-d." }} {{ site.monate[m] }} {{ page.date | date: "%Y" }} //
-{{ site.wt[wt]] }}-{{ page.date | date: "%V" }}
+{{ site.wt[wt]] }}-{{ page.date | date: "%V" }} {{ page.date | date: "%Y" }}
         </p>
     </div>
 {% include footer.html %}
