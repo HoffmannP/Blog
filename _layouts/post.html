@@ -1,4 +1,15 @@
 {% include header.html %}
     <h1>{{page.title}}</h1>
-    <div class="content">{{content}}</div>
+    {% include articlelist.html %}
+    <div class="content">
+        <div>{{content}}</div>
+        <p class="signature">
+            {{page.author}}, {{page.location}}
+
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign wt = page.date | date: "%-m" | minus: 1 %}
+{{ page.date | date: "%-d." }} {{ site.monate[m] }} {{ page.date | date: "%Y" }} //
+{{ site.wt[wt]] }}-{{ page.date | date: "%V" }}
+        </p>
+    </div>
 {% include footer.html %}

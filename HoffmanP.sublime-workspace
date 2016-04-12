@@ -520,13 +520,29 @@
 	"buffers":
 	[
 		{
-			"contents": "",
-			"file": ".gitignore",
-			"file_size": 0,
-			"file_write_time": 131048785478628270,
+			"file": "style.sass",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nLiveReload\n----------\n\n  Changelog:\n  \n  Please be sure to restart Sublime Text to start using this new version. For more information or how to use this plugin visit https://github.com/alepez/LiveReload-sublimetext3\n",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "_site/style.css",
+			"settings":
+			{
+				"buffer_size": 393,
 				"line_ending": "Unix"
 			}
 		}
@@ -554,10 +570,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 54.0,
-		"last_filter": "c#",
+		"height": 201.0,
+		"last_filter": "install",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"c#",
 				"Set Syntax: C#"
@@ -609,10 +629,6 @@
 			[
 				"html",
 				"SublimeLinter: Choose Mark Style"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"package install",
@@ -953,10 +969,12 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ber/Code/hoffmannp.github.io"
+		"/home/ber/Code/hoffmannp.github.io",
+		"/home/ber/Code/hoffmannp.github.io/_site"
 	],
 	"file_history":
 	[
+		"/home/ber/Code/hoffmannp.github.io/.gitignore",
 		"/home/ber/Code/Regularies/dieMaus.py",
 		"/home/ber/Code/Kompetenztest/lib/settings.inc.php",
 		"/home/ber/Code/Kompetenztest/kt-org/ValiditätEingabe/cli.stacktrace.php",
@@ -1083,8 +1101,7 @@
 		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/ft.voes.html.php",
 		"/home/ber/Code/Kompetenztest/kt/ktadm/reports.php",
 		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/ft.gauss.php",
-		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/ft.gauss.html.php",
-		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/ft.gauss.twig"
+		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/ft.gauss.html.php"
 	],
 	"find":
 	{
@@ -1336,16 +1353,74 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
+					"file": "style.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_site/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
 						"regions":
 						{
 						},
@@ -1358,13 +1433,13 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

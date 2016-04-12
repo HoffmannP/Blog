@@ -1,9 +1,82 @@
 ---
 ---
-@import bourbon
+@import bourbon/_bourbon
+@import url(https://fonts.googleapis.com/css?family=Alef:700)
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic,700,700italic)
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css)
+
+$sans: 'Alef', sans-serif
+$serif: 'Alegreya', serif
+
+=fontawesome($icon)
+    display: inline-block
+    font: normal normal normal 14px/1 FontAwesome
+    font-size: inherit
+    text-rendering: auto
+    -webkit-font-smoothing: antialiased
+    -moz-osx-font-smoothing: grayscale
+    content: $icon
+
+a
+    color: inherit
+    text-decoration: inherit
+
+h1
+    font-family: $sans
+    font-weight: bold
+
+.articlelist
+    display: float
+    max-width: 15em
+    float: left
+    padding: 0
+    list-style-type: none
+
+    li
+        a
+            display: block
+            font-family: $sans
+            font-weight: bold
+            text-decoration: none
+            padding: 1em .2em
+            border-width: 2px 0 0 0
+            border-color: green
+            border-style: solid
+            overflow-y: hidden
+            &:hover
+                background: repeating-linear-gradient(-45deg, white, white 5px, tint(green, 70%) 5px, tint(green, 70%) 10px)
+        &:last-child a
+            border-width: 2px 0
+
+    .excerpt
+        display: none
+
 
 .content
-    +column-width(32em)
+    font-family: $serif
+    margin-left: 16em
+    +column-count(4)
+    widows: 2
+    orphans: 2
+    border-style: solid
+    border-color: blue
+    border-width: 0 3px
+    padding-left: 1em
 
-.excerpt
-    max-width: 32em
+    a
+        color: shade(red, 50%)
+        &:before
+            +fontawesome("\f112")
+            +transform(rotate(180deg))
+            padding-left: 3px
+
+        &[href^="https://twitter.com/"]:before
+            +fontawesome("\f099")
+            +transform(rotate(0deg))
+            padding-left: 3px
+
+    .signature
+        font-size: 75%
+        color: tint(black, 30%)
+        text-align: right
+        padding-right: 1em
