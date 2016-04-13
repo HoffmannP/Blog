@@ -520,74 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 488,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "style.sass",
-			"settings":
-			{
-				"buffer_size": 1948,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "TODO",
 			"settings":
 			{
 				"buffer_size": 57,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_site/style.css",
-			"settings":
-			{
-				"buffer_size": 2360,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 137,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 323,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/articlelist.html",
-			"settings":
-			{
-				"buffer_size": 200,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 511,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2016-04-11-git init.md",
-			"settings":
-			{
-				"buffer_size": 603,
 				"line_ending": "Unix"
 			}
 		}
@@ -1027,19 +963,24 @@
 	"expanded_folders":
 	[
 		"/home/ber/Code/hoffmannp.github.io",
+		"/home/ber/Code/hoffmannp.github.io/_drafts",
 		"/home/ber/Code/hoffmannp.github.io/_includes",
 		"/home/ber/Code/hoffmannp.github.io/_layouts",
 		"/home/ber/Code/hoffmannp.github.io/_posts",
-		"/home/ber/Code/hoffmannp.github.io/_site",
-		"/home/ber/Code/hoffmannp.github.io/_site/politik/2016",
-		"/home/ber/Code/hoffmannp.github.io/_site/politik/2016/01",
-		"/home/ber/Code/hoffmannp.github.io/_site/politik/2016/01/08"
+		"/home/ber/Code/hoffmannp.github.io/_site"
 	],
 	"file_history":
 	[
-		"/home/ber/Code/hoffmannp.github.io/_posts/2016-01-08-binären Geschlechteridentität.md",
-		"/home/ber/Code/hoffmannp.github.io/_site/style.css",
+		"/home/ber/Code/hoffmannp.github.io/_drafts/Datumsformat.md",
+		"/home/ber/Code/hoffmannp.github.io/_layouts/post.html",
 		"/home/ber/Code/hoffmannp.github.io/_posts/2016-04-11-git init.md",
+		"/home/ber/Code/hoffmannp.github.io/index.html",
+		"/home/ber/Code/hoffmannp.github.io/_includes/articlelist.html",
+		"/home/ber/Code/hoffmannp.github.io/_includes/header.html",
+		"/home/ber/Code/hoffmannp.github.io/_site/style.css",
+		"/home/ber/Code/hoffmannp.github.io/style.sass",
+		"/home/ber/Code/hoffmannp.github.io/_config.yml",
+		"/home/ber/Code/hoffmannp.github.io/_posts/2016-01-08-binären Geschlechteridentität.md",
 		"/home/ber/Code/hoffmannp.github.io/_posts/2016-04-12-was anderes.md",
 		"/home/ber/Code/hoffmannp.github.io/_posts/2016-04-13-was anderes.md",
 		"/home/ber/Code/hoffmannp.github.io/_posts/2016-01-08-a.md",
@@ -1048,7 +989,6 @@
 		"/home/ber/Code/hoffmannp.github.io/_posts/2016-01-08-Zur binären Geschlechteridentität qua Schwangerschaftsvermögen222.md",
 		"/home/ber/Code/hoffmannp.github.io/_posts/2016-01-08-Zur binären Geschlechteridentität qua Schwangerschaftsvermögen.md",
 		"/home/ber/Dropbox/Configs/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/ber/Code/hoffmannp.github.io/index.html",
 		"/home/ber/Code/hoffmannp.github.io/_includes/article.html",
 		"/home/ber/Code/hoffmannp.github.io/.gitignore",
 		"/home/ber/Code/Regularies/dieMaus.py",
@@ -1158,13 +1098,7 @@
 		"/home/ber/Code/Kompetenztest/colt/inc/colt.auth.php",
 		"/home/ber/Code/Kompetenztest/lib/functions.kt.php",
 		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/ft.refresh.php",
-		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/lib.php",
-		"/home/ber/Code/Kompetenztest/kt/admin/index.php",
-		"/home/ber/Code/Kompetenztest/lib/functions.cms.php",
-		"/home/ber/Code/Kompetenztest/kt/portal/portal.auth.php",
-		"/home/ber/Code/Kompetenztest/cms/portale/kompetenztest.de/inc/settings.inc.php",
-		"/home/ber/Code/Kompetenztest/cms/script/index.inc.php",
-		"/home/ber/Code/Kompetenztest/cms/portale/kompetenztest.de/index.php"
+		"/home/ber/Code/Kompetenztest/kt/admin/filemanager/lib.php"
 	],
 	"find":
 	{
@@ -1416,67 +1350,11 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 488,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								332,
-								332
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1948,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1318,
-								1318
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 655.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "TODO",
 					"semi_transient": false,
 					"settings":
@@ -1502,176 +1380,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_site/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2360,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 162.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 137,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								17,
-								17
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_includes/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 323,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								314,
-								314
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_includes/articlelist.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 200,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								109,
-								109
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_layouts/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 511,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								145,
-								145
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "_posts/2016-04-11-git init.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 603,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								315,
-								315
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
 					"type": "text"
 				}
 			]
