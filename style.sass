@@ -7,6 +7,7 @@
 
 $sans: 'Alef', sans-serif
 $serif: 'Alegreya', serif
+$Purpurviolett: #47243c // RAL4007
 
 =fontawesome($icon)
     display: inline-block
@@ -16,6 +17,9 @@ $serif: 'Alegreya', serif
     -webkit-font-smoothing: antialiased
     -moz-osx-font-smoothing: grayscale
     content: $icon
+
+body
+    background-color: #f9f9f9
 
 a
     color: inherit
@@ -40,11 +44,11 @@ h1
             text-decoration: none
             padding: 1em .2em
             border-width: 2px 0 0 0
-            border-color: green
+            border-color: $Purpurviolett
             border-style: solid
             overflow-y: hidden
             &:hover
-                background: repeating-linear-gradient(-45deg, white, white 5px, tint(green, 70%) 5px, tint(green, 70%) 10px)
+                background: repeating-linear-gradient(-45deg, transparent, transparent 5px, lighten($Purpurviolett, 70%) 5px, lighten($Purpurviolett, 70%) 10px)
         &:last-child a
             border-width: 2px 0
 
@@ -59,12 +63,12 @@ h1
     widows: 2
     orphans: 2
     border-style: solid
-    border-color: blue
+    border-color: $Purpurviolett
     border-width: 0 3px
     padding-left: 1em
 
     a
-        color: shade(red, 50%)
+        color: $Purpurviolett
         &:before
             +fontawesome("\f112")
             +transform(rotate(180deg))
@@ -77,6 +81,22 @@ h1
 
     .signature
         font-size: 75%
-        color: tint(black, 30%)
+        color: tint($Purpurviolett, 30%)
         text-align: right
         padding-right: 1em
+
+@media all and (min-width: 40em)
+    .content
+        +column-count(1)
+@media all and (min-width: 60em)
+    .content
+        +column-count(2)
+@media all and (min-width: 80em)
+    .content
+        +column-count(3)
+@media all and (min-width: 100em)
+    .content
+        +column-count(4)
+@media all and (min-width: 120em)
+    .content
+        +column-count(5)
