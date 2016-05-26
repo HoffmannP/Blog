@@ -1,0 +1,27 @@
+= Scripting video downloads =
+
+a hands-on-tutorial for writing downloads scripts for videos on websites, today for alJazeera
+
+== theory ==
+I fear the days of EME (Encrypted Media Extension: W3C specification for DRM protection for videos), until then downloading videos from websites is usually a nice sparring for scripters.
+
+=== tools ===
+* your language of choice (mine is python herefor)
+* web developer tools of your browser of choice (chrom*ium*)
+* search-tool (sublime)
+* text editor (also sublime)
+
+=== analysis ===
+To download videos from a website it is neccessary to figure out the URL of the video given only the URL from the website. That is what our script should do. The automation of the downloading is left as to the reader as an exercise.
+
+Starting with reloading an website with an embedded video in the browser while a developer tool is running is always the first step. My tools groups all downloads into different media types:
+* XHR, this can be anything, often you'll find JSON-encoded lists of videostream with different encodings/bitrates/etc., hence, what we are looking for
+* JS, javascript scripts, here is where the magic happens, loading videos, generating access keys etc. is done in javascript, either from such file or embedded in the original document
+* CSS, style information, see Other
+* Img, images, see Other
+* Media, somtimes the video is embedded itself, otherwise see Other
+* Font, see Other
+* Doc, the html main page itself and other html files
+* WS, Websockets, I have never seen them used for video embedding but it's a possibility
+* Manifest, I have absolutely no idea what that could be in the context of a website, but enlighten me!
+* Other; while theoretically advanced disguising technics could use any file/content type to transfer encryption/authorisation keys I have never seen something like that
