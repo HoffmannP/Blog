@@ -13,7 +13,10 @@ In der Spieltherie würde man einen Gewinnerwartungswert größer Null annehmen 
 In der Arbeitswelt gibt es solche Spiel ständig, spielen können sie aber nur die Arbeitgeber. Es gibt zu
 Ein solches Spiel können viele Betriebe spielen. Ein gutes BeiSpiel ist der [§ 4 BUrlG](https://dejure.org/gesetze/BUrlG/4.html).
 
-    Der volle Urlaubsanspruch wird erstmalig nach sechsmonatigem Bestehen des Arbeitsverhältnisses erworben.
+    Der volle Urlaubsanspruch wird
+    erstmalig nach sechsmonatigem
+    Bestehen des Arbeitsverhältnisses
+    erworben.
 
 Viele Arbeitnehmer kennen diesen Rechtsanspruch nicht. Wenn die Arbeitgeberin diesen Anspruch nicht automatisch berücksichtigt entsteht ein Gewinn für sie (in Form von gesparten Urlaubstagen also mehr Arbeit für das gleiche Geld). Manche Arbeitnehmer kennen den Anspruch, machen ihn geltend und die Arbeitgeberin lehnt es ab das Recht zu gewähren. Ein gewisser Teil er Arbeitnehmer wird an dem Punkt nicht weiter machen und verzichtet auf ihr Recht. Und dann gibt es diejenigen Arbeitnehmer die auf ihr Recht pochen, eine schriftliche Ablehnung fordern, sich an den Betriebsrat wenden (wenn er existiert), eine Anwältin einschalten, kurz gesagt, eskalieren. Die bekommen mit Sicherheit irgendwann ihre paar Tage Urlaub oder einen finanziellen Ausgleich zugesprochen.
 
