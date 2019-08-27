@@ -1,14 +1,7 @@
 timezone: Europe/Berlin
 exclude:
-  - CNAME
-  - HoffmanP.sublime-workspace
-  - HoffmanP.sublime-project
   - jekyll
 show_drafts: true
-
-scripts:
-  - /cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min
-  - script
 
 monate: [Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember]
 wt: [Mo,Di,Mi,Do,Fr,Sa,So]
