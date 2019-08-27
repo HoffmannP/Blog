@@ -1,7 +1,7 @@
 <ul class="articlelist">
   {% for post in site.posts %}
     <li>
-      <a href="blog/{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <div class="excerpt">{{ post.excerpt }}</div>
     </li>
   {% endfor %}
